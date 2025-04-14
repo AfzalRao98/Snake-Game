@@ -1,2 +1,2 @@
 # Snake-Game
-it is a basic snake game in python language
+It is a basic snake game in Python language
